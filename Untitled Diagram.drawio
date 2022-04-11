@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T17:37:36.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="MB1xL3KtmLZXh4PDKCvE" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T17:39:12.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="iF29HXvO8i1EQn8ulbkW" version="17.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1153" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="65J0kUZPPZjUlaNNTO3n-44" value="" style="rounded=1;strokeWidth=1;fillColor=default;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=default;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="-1140" width="750" height="310" as="geometry" />
+        <mxCell id="65J0kUZPPZjUlaNNTO3n-90" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=#FFFFFF;fontFamily=Verdana;fontSize=14;fontColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="-1155" width="800" height="835" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="Book" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="-1090" width="170" height="240" as="geometry">
@@ -173,6 +173,9 @@
         </mxCell>
         <mxCell id="65J0kUZPPZjUlaNNTO3n-88" value="*Bütün ürün tipleri için sadece bir tane&amp;nbsp;&lt;br&gt;savetoDB() olmalı.&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFFFF;labelBorderColor=#FFFFFF;fontFamily=Verdana;fontSize=14;fontColor=default;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="-784" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="65J0kUZPPZjUlaNNTO3n-89" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=#FFFFFF;fontFamily=Verdana;fontSize=14;fontColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
